@@ -1,3 +1,5 @@
 ### Maxwell Pozar
 
-Civil/utility coordination engineer, Texas. Most of what I build is for problems I actually run into at work, utility conflict screening from raw KMZ/CAD exports, easement exhibits, eligibility ratio math, and that code stays private since it touches client data. The public repos here are whatever side project I felt like building or fixing, no theme to it.
+Texas. Civil/utility coordination engineering, GIS, and whatever automation saves time on the current problem.
+
+Repos here cover utility conflict screening from KMZ/CAD exports, easement exhibit generation and eligibility ratio calculations, ML classification for utility records, a PE exam study tool, flute and guitar transcription/arranging tools, a Slay the Spire 2 mod, a Valheim server bot, personal finance and trading automation, and small one-off apps for whatever came up that week. Most of the client-facing engineering work stays private, public repos are the rest.
